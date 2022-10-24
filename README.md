@@ -1,4 +1,4 @@
-# pygalProject
+# COVID DATA Project
 
 This project makes the use of few cool tools in Python and SQL.
 
