@@ -1,0 +1,1162 @@
+[
+	{
+		"location": "Afghanistan",
+		"date": "2022-10-19",
+		"total_cases": 201557.0
+	},
+	{
+		"location": "Africa",
+		"date": "2022-10-19",
+		"total_cases": 1.2371352E7
+	},
+	{
+		"location": "Albania",
+		"date": "2022-10-19",
+		"total_cases": 332701.0
+	},
+	{
+		"location": "Algeria",
+		"date": "2022-10-19",
+		"total_cases": 270768.0
+	},
+	{
+		"location": "Andorra",
+		"date": "2022-10-19",
+		"total_cases": 46449.0
+	},
+	{
+		"location": "Angola",
+		"date": "2022-10-19",
+		"total_cases": 103131.0
+	},
+	{
+		"location": "Anguilla",
+		"date": "2022-10-19",
+		"total_cases": 3866.0
+	},
+	{
+		"location": "Antigua and Barbuda",
+		"date": "2022-10-19",
+		"total_cases": 9106.0
+	},
+	{
+		"location": "Argentina",
+		"date": "2022-10-19",
+		"total_cases": 9715464.0
+	},
+	{
+		"location": "Armenia",
+		"date": "2022-10-19",
+		"total_cases": 444869.0
+	},
+	{
+		"location": "Aruba",
+		"date": "2022-10-19",
+		"total_cases": 43291.0
+	},
+	{
+		"location": "Asia",
+		"date": "2022-10-19",
+		"total_cases": 1.87824138E8
+	},
+	{
+		"location": "Australia",
+		"date": "2022-10-19",
+		"total_cases": 1.0313911E7
+	},
+	{
+		"location": "Austria",
+		"date": "2022-10-19",
+		"total_cases": 5369885.0
+	},
+	{
+		"location": "Azerbaijan",
+		"date": "2022-10-19",
+		"total_cases": 822751.0
+	},
+	{
+		"location": "Bahamas",
+		"date": "2022-10-19",
+		"total_cases": 37334.0
+	},
+	{
+		"location": "Bahrain",
+		"date": "2022-10-19",
+		"total_cases": 686629.0
+	},
+	{
+		"location": "Bangladesh",
+		"date": "2022-10-19",
+		"total_cases": 2033419.0
+	},
+	{
+		"location": "Barbados",
+		"date": "2022-10-19",
+		"total_cases": 103014.0
+	},
+	{
+		"location": "Belarus",
+		"date": "2022-10-19",
+		"total_cases": 994037.0
+	},
+	{
+		"location": "Belgium",
+		"date": "2022-10-19",
+		"total_cases": 4594338.0
+	},
+	{
+		"location": "Belize",
+		"date": "2022-10-19",
+		"total_cases": 68926.0
+	},
+	{
+		"location": "Benin",
+		"date": "2022-10-19",
+		"total_cases": 27782.0
+	},
+	{
+		"location": "Bermuda",
+		"date": "2022-10-19",
+		"total_cases": 18340.0
+	},
+	{
+		"location": "Bhutan",
+		"date": "2022-10-19",
+		"total_cases": 62248.0
+	},
+	{
+		"location": "Bolivia",
+		"date": "2022-10-19",
+		"total_cases": 1109123.0
+	},
+	{
+		"location": "Bonaire Sint Eustatius and Saba",
+		"date": "2022-10-19",
+		"total_cases": 11427.0
+	},
+	{
+		"location": "Bosnia and Herzegovina",
+		"date": "2022-10-19",
+		"total_cases": 399584.0
+	},
+	{
+		"location": "Botswana",
+		"date": "2022-10-19",
+		"total_cases": 326344.0
+	},
+	{
+		"location": "Brazil",
+		"date": "2022-10-19",
+		"total_cases": 3.477132E7
+	},
+	{
+		"location": "British Virgin Islands",
+		"date": "2022-10-19",
+		"total_cases": 7305.0
+	},
+	{
+		"location": "Brunei",
+		"date": "2022-10-19",
+		"total_cases": 234582.0
+	},
+	{
+		"location": "Bulgaria",
+		"date": "2022-10-19",
+		"total_cases": 1272645.0
+	},
+	{
+		"location": "Burkina Faso",
+		"date": "2022-10-19",
+		"total_cases": 21631.0
+	},
+	{
+		"location": "Burundi",
+		"date": "2022-10-19",
+		"total_cases": 50372.0
+	},
+	{
+		"location": "Cambodia",
+		"date": "2022-10-19",
+		"total_cases": 137976.0
+	},
+	{
+		"location": "Cameroon",
+		"date": "2022-10-19",
+		"total_cases": 121652.0
+	},
+	{
+		"location": "Canada",
+		"date": "2022-10-19",
+		"total_cases": 4332828.0
+	},
+	{
+		"location": "Cape Verde",
+		"date": "2022-10-19",
+		"total_cases": 62397.0
+	},
+	{
+		"location": "Cayman Islands",
+		"date": "2022-10-19",
+		"total_cases": 30926.0
+	},
+	{
+		"location": "Central African Republic",
+		"date": "2022-10-19",
+		"total_cases": 15151.0
+	},
+	{
+		"location": "Chad",
+		"date": "2022-10-19",
+		"total_cases": 7613.0
+	},
+	{
+		"location": "Chile",
+		"date": "2022-10-19",
+		"total_cases": 4690513.0
+	},
+	{
+		"location": "China",
+		"date": "2022-10-19",
+		"total_cases": 1016148.0
+	},
+	{
+		"location": "Colombia",
+		"date": "2022-10-19",
+		"total_cases": 6308558.0
+	},
+	{
+		"location": "Comoros",
+		"date": "2022-10-19",
+		"total_cases": 8481.0
+	},
+	{
+		"location": "Congo",
+		"date": "2022-10-19",
+		"total_cases": 24837.0
+	},
+	{
+		"location": "Cook Islands",
+		"date": "2022-10-19",
+		"total_cases": 6389.0
+	},
+	{
+		"location": "Costa Rica",
+		"date": "2022-10-19",
+		"total_cases": 1130568.0
+	},
+	{
+		"location": "Cote d'Ivoire",
+		"date": "2022-10-19",
+		"total_cases": 87657.0
+	},
+	{
+		"location": "Croatia",
+		"date": "2022-10-19",
+		"total_cases": 1242909.0
+	},
+	{
+		"location": "Cuba",
+		"date": "2022-10-19",
+		"total_cases": 1111263.0
+	},
+	{
+		"location": "Curacao",
+		"date": "2022-10-19",
+		"total_cases": 45434.0
+	},
+	{
+		"location": "Cyprus",
+		"date": "2022-10-19",
+		"total_cases": 593542.0
+	},
+	{
+		"location": "Czechia",
+		"date": "2022-10-19",
+		"total_cases": 4147736.0
+	},
+	{
+		"location": "Democratic Republic of Congo",
+		"date": "2022-10-19",
+		"total_cases": 92972.0
+	},
+	{
+		"location": "Denmark",
+		"date": "2022-10-19",
+		"total_cases": 3323835.0
+	},
+	{
+		"location": "Djibouti",
+		"date": "2022-10-19",
+		"total_cases": 15690.0
+	},
+	{
+		"location": "Dominica",
+		"date": "2022-10-19",
+		"total_cases": 15760.0
+	},
+	{
+		"location": "Dominican Republic",
+		"date": "2022-10-19",
+		"total_cases": 647205.0
+	},
+	{
+		"location": "Ecuador",
+		"date": "2022-10-19",
+		"total_cases": 1006922.0
+	},
+	{
+		"location": "Egypt",
+		"date": "2022-10-19",
+		"total_cases": 515645.0
+	},
+	{
+		"location": "El Salvador",
+		"date": "2022-10-19",
+		"total_cases": 201785.0
+	},
+	{
+		"location": "England",
+		"date": "2022-10-19",
+		"total_cases": null
+	},
+	{
+		"location": "Equatorial Guinea",
+		"date": "2022-10-19",
+		"total_cases": 17131.0
+	},
+	{
+		"location": "Eritrea",
+		"date": "2022-10-19",
+		"total_cases": 10185.0
+	},
+	{
+		"location": "Estonia",
+		"date": "2022-10-19",
+		"total_cases": 605622.0
+	},
+	{
+		"location": "Eswatini",
+		"date": "2022-10-19",
+		"total_cases": 73436.0
+	},
+	{
+		"location": "Ethiopia",
+		"date": "2022-10-19",
+		"total_cases": 493818.0
+	},
+	{
+		"location": "Europe",
+		"date": "2022-10-19",
+		"total_cases": 2.34284258E8
+	},
+	{
+		"location": "European Union",
+		"date": "2022-10-19",
+		"total_cases": 1.72230869E8
+	},
+	{
+		"location": "Faeroe Islands",
+		"date": "2022-10-19",
+		"total_cases": 34658.0
+	},
+	{
+		"location": "Falkland Islands",
+		"date": "2022-10-19",
+		"total_cases": 1930.0
+	},
+	{
+		"location": "Fiji",
+		"date": "2022-10-19",
+		"total_cases": 68248.0
+	},
+	{
+		"location": "Finland",
+		"date": "2022-10-19",
+		"total_cases": 1323455.0
+	},
+	{
+		"location": "France",
+		"date": "2022-10-19",
+		"total_cases": 3.6480994E7
+	},
+	{
+		"location": "French Polynesia",
+		"date": "2022-10-19",
+		"total_cases": 76706.0
+	},
+	{
+		"location": "Gabon",
+		"date": "2022-10-19",
+		"total_cases": 48810.0
+	},
+	{
+		"location": "Gambia",
+		"date": "2022-10-19",
+		"total_cases": 12508.0
+	},
+	{
+		"location": "Georgia",
+		"date": "2022-10-19",
+		"total_cases": 1780691.0
+	},
+	{
+		"location": "Germany",
+		"date": "2022-10-19",
+		"total_cases": 3.5005769E7
+	},
+	{
+		"location": "Ghana",
+		"date": "2022-10-19",
+		"total_cases": 170321.0
+	},
+	{
+		"location": "Gibraltar",
+		"date": "2022-10-19",
+		"total_cases": 20121.0
+	},
+	{
+		"location": "Greece",
+		"date": "2022-10-19",
+		"total_cases": 5081981.0
+	},
+	{
+		"location": "Greenland",
+		"date": "2022-10-19",
+		"total_cases": 11971.0
+	},
+	{
+		"location": "Grenada",
+		"date": "2022-10-19",
+		"total_cases": 19584.0
+	},
+	{
+		"location": "Guatemala",
+		"date": "2022-10-19",
+		"total_cases": 1134947.0
+	},
+	{
+		"location": "Guinea",
+		"date": "2022-10-19",
+		"total_cases": 37999.0
+	},
+	{
+		"location": "Guinea-Bissau",
+		"date": "2022-10-19",
+		"total_cases": 8831.0
+	},
+	{
+		"location": "Guyana",
+		"date": "2022-10-19",
+		"total_cases": 71418.0
+	},
+	{
+		"location": "Haiti",
+		"date": "2022-10-19",
+		"total_cases": 33764.0
+	},
+	{
+		"location": "High income",
+		"date": "2022-10-19",
+		"total_cases": 3.88982717E8
+	},
+	{
+		"location": "Honduras",
+		"date": "2022-10-19",
+		"total_cases": 456886.0
+	},
+	{
+		"location": "Hong Kong",
+		"date": "2022-10-19",
+		"total_cases": 1853287.0
+	},
+	{
+		"location": "Hungary",
+		"date": "2022-10-19",
+		"total_cases": 2132490.0
+	},
+	{
+		"location": "Iceland",
+		"date": "2022-10-19",
+		"total_cases": 206134.0
+	},
+	{
+		"location": "India",
+		"date": "2022-10-19",
+		"total_cases": 4.4636517E7
+	},
+	{
+		"location": "Indonesia",
+		"date": "2022-10-19",
+		"total_cases": 6462655.0
+	},
+	{
+		"location": "International",
+		"date": "2022-10-19",
+		"total_cases": 721.0
+	},
+	{
+		"location": "Iran",
+		"date": "2022-10-19",
+		"total_cases": 7555355.0
+	},
+	{
+		"location": "Iraq",
+		"date": "2022-10-19",
+		"total_cases": 2460868.0
+	},
+	{
+		"location": "Ireland",
+		"date": "2022-10-19",
+		"total_cases": 1670377.0
+	},
+	{
+		"location": "Isle of Man",
+		"date": "2022-10-19",
+		"total_cases": 38008.0
+	},
+	{
+		"location": "Israel",
+		"date": "2022-10-19",
+		"total_cases": 4675027.0
+	},
+	{
+		"location": "Italy",
+		"date": "2022-10-19",
+		"total_cases": 2.3214073E7
+	},
+	{
+		"location": "Jamaica",
+		"date": "2022-10-19",
+		"total_cases": 151931.0
+	},
+	{
+		"location": "Japan",
+		"date": "2022-10-19",
+		"total_cases": 2.1887525E7
+	},
+	{
+		"location": "Jordan",
+		"date": "2022-10-19",
+		"total_cases": 1746997.0
+	},
+	{
+		"location": "Kazakhstan",
+		"date": "2022-10-19",
+		"total_cases": 1484400.0
+	},
+	{
+		"location": "Kenya",
+		"date": "2022-10-19",
+		"total_cases": 338678.0
+	},
+	{
+		"location": "Kiribati",
+		"date": "2022-10-19",
+		"total_cases": 3430.0
+	},
+	{
+		"location": "Kosovo",
+		"date": "2022-10-19",
+		"total_cases": 272129.0
+	},
+	{
+		"location": "Kuwait",
+		"date": "2022-10-19",
+		"total_cases": 661335.0
+	},
+	{
+		"location": "Kyrgyzstan",
+		"date": "2022-10-19",
+		"total_cases": 206334.0
+	},
+	{
+		"location": "Laos",
+		"date": "2022-10-19",
+		"total_cases": 216158.0
+	},
+	{
+		"location": "Latvia",
+		"date": "2022-10-19",
+		"total_cases": 946092.0
+	},
+	{
+		"location": "Lebanon",
+		"date": "2022-10-19",
+		"total_cases": 1217831.0
+	},
+	{
+		"location": "Lesotho",
+		"date": "2022-10-19",
+		"total_cases": 34490.0
+	},
+	{
+		"location": "Liberia",
+		"date": "2022-10-19",
+		"total_cases": 7988.0
+	},
+	{
+		"location": "Libya",
+		"date": "2022-10-19",
+		"total_cases": 507024.0
+	},
+	{
+		"location": "Liechtenstein",
+		"date": "2022-10-19",
+		"total_cases": 20465.0
+	},
+	{
+		"location": "Lithuania",
+		"date": "2022-10-19",
+		"total_cases": 1263538.0
+	},
+	{
+		"location": "Low income",
+		"date": "2022-10-19",
+		"total_cases": 2248234.0
+	},
+	{
+		"location": "Lower middle income",
+		"date": "2022-10-19",
+		"total_cases": 9.6364962E7
+	},
+	{
+		"location": "Luxembourg",
+		"date": "2022-10-19",
+		"total_cases": 299022.0
+	},
+	{
+		"location": "Macao",
+		"date": "2022-10-19",
+		"total_cases": 793.0
+	},
+	{
+		"location": "Madagascar",
+		"date": "2022-10-19",
+		"total_cases": 66687.0
+	},
+	{
+		"location": "Malawi",
+		"date": "2022-10-19",
+		"total_cases": 88064.0
+	},
+	{
+		"location": "Malaysia",
+		"date": "2022-10-19",
+		"total_cases": 4872570.0
+	},
+	{
+		"location": "Maldives",
+		"date": "2022-10-19",
+		"total_cases": 185194.0
+	},
+	{
+		"location": "Mali",
+		"date": "2022-10-19",
+		"total_cases": 32712.0
+	},
+	{
+		"location": "Malta",
+		"date": "2022-10-19",
+		"total_cases": 115103.0
+	},
+	{
+		"location": "Marshall Islands",
+		"date": "2022-10-19",
+		"total_cases": 15389.0
+	},
+	{
+		"location": "Mauritania",
+		"date": "2022-10-19",
+		"total_cases": 63194.0
+	},
+	{
+		"location": "Mauritius",
+		"date": "2022-10-19",
+		"total_cases": 263780.0
+	},
+	{
+		"location": "Mexico",
+		"date": "2022-10-19",
+		"total_cases": 7103339.0
+	},
+	{
+		"location": "Micronesia (country)",
+		"date": "2022-10-19",
+		"total_cases": 21815.0
+	},
+	{
+		"location": "Moldova",
+		"date": "2022-10-19",
+		"total_cases": 592535.0
+	},
+	{
+		"location": "Monaco",
+		"date": "2022-10-19",
+		"total_cases": 14852.0
+	},
+	{
+		"location": "Mongolia",
+		"date": "2022-10-19",
+		"total_cases": 984144.0
+	},
+	{
+		"location": "Montenegro",
+		"date": "2022-10-19",
+		"total_cases": 282052.0
+	},
+	{
+		"location": "Montserrat",
+		"date": "2022-10-19",
+		"total_cases": 1403.0
+	},
+	{
+		"location": "Morocco",
+		"date": "2022-10-19",
+		"total_cases": 1265301.0
+	},
+	{
+		"location": "Mozambique",
+		"date": "2022-10-19",
+		"total_cases": 230370.0
+	},
+	{
+		"location": "Myanmar",
+		"date": "2022-10-19",
+		"total_cases": 629653.0
+	},
+	{
+		"location": "Namibia",
+		"date": "2022-10-19",
+		"total_cases": 169253.0
+	},
+	{
+		"location": "Nauru",
+		"date": "2022-10-19",
+		"total_cases": 4611.0
+	},
+	{
+		"location": "Nepal",
+		"date": "2022-10-19",
+		"total_cases": 1000275.0
+	},
+	{
+		"location": "Netherlands",
+		"date": "2022-10-19",
+		"total_cases": 8498484.0
+	},
+	{
+		"location": "New Caledonia",
+		"date": "2022-10-19",
+		"total_cases": 74377.0
+	},
+	{
+		"location": "New Zealand",
+		"date": "2022-10-19",
+		"total_cases": 1814973.0
+	},
+	{
+		"location": "Nicaragua",
+		"date": "2022-10-19",
+		"total_cases": 15145.0
+	},
+	{
+		"location": "Niger",
+		"date": "2022-10-19",
+		"total_cases": 9415.0
+	},
+	{
+		"location": "Nigeria",
+		"date": "2022-10-19",
+		"total_cases": 265937.0
+	},
+	{
+		"location": "North America",
+		"date": "2022-10-19",
+		"total_cases": 1.15059699E8
+	},
+	{
+		"location": "North Korea",
+		"date": "2022-10-19",
+		"total_cases": 1.0
+	},
+	{
+		"location": "North Macedonia",
+		"date": "2022-10-19",
+		"total_cases": 343824.0
+	},
+	{
+		"location": "Norway",
+		"date": "2022-10-19",
+		"total_cases": 1463751.0
+	},
+	{
+		"location": "Oceania",
+		"date": "2022-10-19",
+		"total_cases": 1.2517032E7
+	},
+	{
+		"location": "Oman",
+		"date": "2022-10-19",
+		"total_cases": 398660.0
+	},
+	{
+		"location": "Pakistan",
+		"date": "2022-10-19",
+		"total_cases": 1572778.0
+	},
+	{
+		"location": "Palau",
+		"date": "2022-10-19",
+		"total_cases": 5490.0
+	},
+	{
+		"location": "Palestine",
+		"date": "2022-10-19",
+		"total_cases": 702804.0
+	},
+	{
+		"location": "Panama",
+		"date": "2022-10-19",
+		"total_cases": 989005.0
+	},
+	{
+		"location": "Papua New Guinea",
+		"date": "2022-10-19",
+		"total_cases": 45264.0
+	},
+	{
+		"location": "Paraguay",
+		"date": "2022-10-19",
+		"total_cases": 717260.0
+	},
+	{
+		"location": "Peru",
+		"date": "2022-10-19",
+		"total_cases": 4150737.0
+	},
+	{
+		"location": "Philippines",
+		"date": "2022-10-19",
+		"total_cases": 3987316.0
+	},
+	{
+		"location": "Poland",
+		"date": "2022-10-19",
+		"total_cases": 6330904.0
+	},
+	{
+		"location": "Portugal",
+		"date": "2022-10-19",
+		"total_cases": 5509424.0
+	},
+	{
+		"location": "Qatar",
+		"date": "2022-10-19",
+		"total_cases": 463888.0
+	},
+	{
+		"location": "Romania",
+		"date": "2022-10-19",
+		"total_cases": 3281666.0
+	},
+	{
+		"location": "Russia",
+		"date": "2022-10-19",
+		"total_cases": 2.1031202E7
+	},
+	{
+		"location": "Rwanda",
+		"date": "2022-10-19",
+		"total_cases": 132533.0
+	},
+	{
+		"location": "Saint Helena",
+		"date": "2022-10-19",
+		"total_cases": 2013.0
+	},
+	{
+		"location": "Saint Kitts and Nevis",
+		"date": "2022-10-19",
+		"total_cases": 6547.0
+	},
+	{
+		"location": "Saint Lucia",
+		"date": "2022-10-19",
+		"total_cases": 29550.0
+	},
+	{
+		"location": "Saint Pierre and Miquelon",
+		"date": "2022-10-19",
+		"total_cases": 3231.0
+	},
+	{
+		"location": "Saint Vincent and the Grenadines",
+		"date": "2022-10-19",
+		"total_cases": 9452.0
+	},
+	{
+		"location": "Samoa",
+		"date": "2022-10-19",
+		"total_cases": 15946.0
+	},
+	{
+		"location": "San Marino",
+		"date": "2022-10-19",
+		"total_cases": 21400.0
+	},
+	{
+		"location": "Sao Tome and Principe",
+		"date": "2022-10-19",
+		"total_cases": 6263.0
+	},
+	{
+		"location": "Saudi Arabia",
+		"date": "2022-10-19",
+		"total_cases": 819570.0
+	},
+	{
+		"location": "Senegal",
+		"date": "2022-10-19",
+		"total_cases": 88630.0
+	},
+	{
+		"location": "Serbia",
+		"date": "2022-10-19",
+		"total_cases": 2392745.0
+	},
+	{
+		"location": "Seychelles",
+		"date": "2022-10-19",
+		"total_cases": 47141.0
+	},
+	{
+		"location": "Sierra Leone",
+		"date": "2022-10-19",
+		"total_cases": 7752.0
+	},
+	{
+		"location": "Singapore",
+		"date": "2022-10-19",
+		"total_cases": 2037947.0
+	},
+	{
+		"location": "Slovakia",
+		"date": "2022-10-19",
+		"total_cases": 2638637.0
+	},
+	{
+		"location": "Slovenia",
+		"date": "2022-10-19",
+		"total_cases": 1220889.0
+	},
+	{
+		"location": "Solomon Islands",
+		"date": "2022-10-19",
+		"total_cases": 21544.0
+	},
+	{
+		"location": "Somalia",
+		"date": "2022-10-19",
+		"total_cases": 27223.0
+	},
+	{
+		"location": "South Africa",
+		"date": "2022-10-19",
+		"total_cases": 4024553.0
+	},
+	{
+		"location": "South America",
+		"date": "2022-10-19",
+		"total_cases": 6.4158399E7
+	},
+	{
+		"location": "South Korea",
+		"date": "2022-10-19",
+		"total_cases": 2.5219546E7
+	},
+	{
+		"location": "South Sudan",
+		"date": "2022-10-19",
+		"total_cases": 17823.0
+	},
+	{
+		"location": "Spain",
+		"date": "2022-10-19",
+		"total_cases": 1.3462593E7
+	},
+	{
+		"location": "Sri Lanka",
+		"date": "2022-10-19",
+		"total_cases": 670952.0
+	},
+	{
+		"location": "Sudan",
+		"date": "2022-10-19",
+		"total_cases": 63449.0
+	},
+	{
+		"location": "Suriname",
+		"date": "2022-10-19",
+		"total_cases": 81158.0
+	},
+	{
+		"location": "Sweden",
+		"date": "2022-10-19",
+		"total_cases": 2604866.0
+	},
+	{
+		"location": "Switzerland",
+		"date": "2022-10-19",
+		"total_cases": 4164685.0
+	},
+	{
+		"location": "Syria",
+		"date": "2022-10-19",
+		"total_cases": 57340.0
+	},
+	{
+		"location": "Taiwan",
+		"date": "2022-10-19",
+		"total_cases": 7302188.0
+	},
+	{
+		"location": "Tajikistan",
+		"date": "2022-10-19",
+		"total_cases": 17786.0
+	},
+	{
+		"location": "Tanzania",
+		"date": "2022-10-19",
+		"total_cases": 39679.0
+	},
+	{
+		"location": "Thailand",
+		"date": "2022-10-19",
+		"total_cases": 4687281.0
+	},
+	{
+		"location": "Timor",
+		"date": "2022-10-19",
+		"total_cases": 23291.0
+	},
+	{
+		"location": "Togo",
+		"date": "2022-10-19",
+		"total_cases": 39261.0
+	},
+	{
+		"location": "Tonga",
+		"date": "2022-10-19",
+		"total_cases": 16182.0
+	},
+	{
+		"location": "Trinidad and Tobago",
+		"date": "2022-10-19",
+		"total_cases": 184524.0
+	},
+	{
+		"location": "Tunisia",
+		"date": "2022-10-19",
+		"total_cases": 1146044.0
+	},
+	{
+		"location": "Turkey",
+		"date": "2022-10-19",
+		"total_cases": 1.6919638E7
+	},
+	{
+		"location": "Turks and Caicos Islands",
+		"date": "2022-10-19",
+		"total_cases": 6380.0
+	},
+	{
+		"location": "Tuvalu",
+		"date": "2022-10-19",
+		"total_cases": 20.0
+	},
+	{
+		"location": "Uganda",
+		"date": "2022-10-19",
+		"total_cases": 169396.0
+	},
+	{
+		"location": "Ukraine",
+		"date": "2022-10-19",
+		"total_cases": 5583231.0
+	},
+	{
+		"location": "United Arab Emirates",
+		"date": "2022-10-19",
+		"total_cases": 1033770.0
+	},
+	{
+		"location": "United Kingdom",
+		"date": "2022-10-19",
+		"total_cases": 2.3798797E7
+	},
+	{
+		"location": "United States",
+		"date": "2022-10-19",
+		"total_cases": 9.7083662E7
+	},
+	{
+		"location": "Upper middle income",
+		"date": "2022-10-19",
+		"total_cases": 1.38587916E8
+	},
+	{
+		"location": "Uruguay",
+		"date": "2022-10-19",
+		"total_cases": 988527.0
+	},
+	{
+		"location": "Uzbekistan",
+		"date": "2022-10-19",
+		"total_cases": 244424.0
+	},
+	{
+		"location": "Vanuatu",
+		"date": "2022-10-19",
+		"total_cases": 11976.0
+	},
+	{
+		"location": "Vatican",
+		"date": "2022-10-19",
+		"total_cases": 29.0
+	},
+	{
+		"location": "Venezuela",
+		"date": "2022-10-19",
+		"total_cases": 545469.0
+	},
+	{
+		"location": "Vietnam",
+		"date": "2022-10-19",
+		"total_cases": 1.1495231E7
+	},
+	{
+		"location": "Wallis and Futuna",
+		"date": "2022-10-19",
+		"total_cases": 761.0
+	},
+	{
+		"location": "World",
+		"date": "2022-10-19",
+		"total_cases": 6.26215599E8
+	},
+	{
+		"location": "Yemen",
+		"date": "2022-10-19",
+		"total_cases": 11939.0
+	},
+	{
+		"location": "Zambia",
+		"date": "2022-10-19",
+		"total_cases": 333644.0
+	},
+	{
+		"location": "Zimbabwe",
+		"date": "2022-10-19",
+		"total_cases": 257893.0
+	}
+]
