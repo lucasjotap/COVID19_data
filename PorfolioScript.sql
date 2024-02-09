@@ -306,7 +306,7 @@ FROM PPLVAXED;
 
 /* --
 
-Tables within this comment line are already above, these are test queries:
+Tables within this comment line are stated above already, these are test queries:
 
 SELECT vd.continent, vd.location, vd.date, vd.population, vcd.new_vaccinations
 , SUM(vcd.new_vaccinations) OVER (PARTITION BY vd.location ORDER BY vd.location,
